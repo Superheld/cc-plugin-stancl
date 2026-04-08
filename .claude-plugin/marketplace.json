@@ -1,0 +1,13 @@
+{
+  "name": "cc-plugin-stancl",
+  "owner": {
+    "name": "Superheld"
+  },
+  "plugins": [
+    {
+      "name": "cc-plugin-stancl",
+      "source": ".",
+      "description": "Skills for the stancl/* Laravel ecosystem: tenancy, jobpipeline, virtualcolumn"
+    }
+  ]
+}

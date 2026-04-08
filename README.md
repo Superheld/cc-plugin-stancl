@@ -12,16 +12,11 @@ Once installed, Claude automatically picks up the right skill whenever you work 
 
 ## Installation
 
-```sh
-/plugin install Superheld/cc-plugin-stancl
+In Claude Code, add this repo as a marketplace and install the plugin:
+
 ```
-
-Or add it to your project's `.claude/settings.json`:
-
-```json
-{
-  "plugins": ["Superheld/cc-plugin-stancl"]
-}
+/plugin marketplace add Superheld/cc-plugin-stancl
+/plugin install cc-plugin-stancl@cc-plugin-stancl
 ```
 
 ## Usage
