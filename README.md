@@ -15,8 +15,8 @@ Once installed, Claude automatically picks up the right skill whenever you work 
 In Claude Code, add this repo as a marketplace and install the plugin:
 
 ```
-/plugin marketplace add Superheld/cc-plugin-stancl
-/plugin install cc-plugin-stancl@cc-plugin-stancl
+/plugin marketplace add Superheld/claude-bauchladen
+/plugin install cc-plugin-stancl@claude-bauchladen
 ```
 
 ## Usage
