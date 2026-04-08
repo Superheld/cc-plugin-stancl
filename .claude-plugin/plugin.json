@@ -1,0 +1,9 @@
+{
+  "name": "stancl",
+  "version": "0.1.0",
+  "description": "Skills for the stancl ecosystem: tenancy, jobpipeline, virtualcolumn",
+  "author": {
+    "name": "Roland"
+  },
+  "keywords": ["laravel", "tenancy", "multi-tenancy", "php"]
+}
